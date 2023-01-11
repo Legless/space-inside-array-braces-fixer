@@ -1,0 +1,17 @@
+{
+    "name": "legless/space-inside-array-braces-fixer",
+    "type": "library",
+    "description": "Custom rule for php-cs-fixer to add spaces inside array braces",
+    "license": "MIT",
+    "authors": [
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Legless\\Fixer\\": "src"
+        }
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "~3.13"
+    }
+}
